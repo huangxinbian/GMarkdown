@@ -1,0 +1,30 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "GMarkdown",
+  "outputfilename": "GMarkdown",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn run build",
+  "frontend:dev:watcher": "yarn run serve",
+  "_frontend:build": "yarn run build_npm",
+  "_frontend:dev:watcher": "yarn run serve_npm",
+  "frontend:dev:serverUrl": "http://localhost:8080",
+  "_frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "黄新变",
+    "email": "359664529@qq.com"
+  },
+  "info": {
+    "companyName": "渼沐科技",
+    "productName": "蜕变的MarkDown文件编辑器",
+    "productVersion": "0.0.1",
+    "copyright": "本产品归作者所有",
+    "comments": "便利的MarkDown文件编辑器",
+    "fileAssociations": [{
+      "ext": "md",
+      "name": "MD",
+      "description": "MarkDown文件编辑器",
+      "iconName": "appicon"
+    }]
+  }
+
+}

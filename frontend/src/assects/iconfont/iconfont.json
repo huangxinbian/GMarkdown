@@ -1,0 +1,100 @@
+{
+  "id": "4567681",
+  "name": "GMarkdown",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "GMarkdown所用图标",
+  "glyphs": [
+    {
+      "icon_id": "15838473",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "15838589",
+      "name": "错误-满",
+      "font_class": "cuowu-fill",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "15838447",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "15838497",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838503",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "15838517",
+      "name": "注意",
+      "font_class": "zhuyi",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "15838534",
+      "name": "切换",
+      "font_class": "qiehuan",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "15838449",
+      "name": "分栏",
+      "font_class": "fenlan",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15838432",
+      "name": "浏览",
+      "font_class": "liulan",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "15838487",
+      "name": "文件打开",
+      "font_class": "wenjianjiadakai",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "15838512",
+      "name": "打印",
+      "font_class": "dayin",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "15838524",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "15838600",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "default",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+		"build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+		"serve_npm": "vue-cli-service serve",
+		"build_npm": "vue-cli-service build"
+	},
+	"dependencies": {
+		"core-js": "^2.6.5",
+		"highlight.js": "^11.5.0",
+		"mavon-editor": "^2.10.4",
+		"vue": "^2.6.10",
+		"vue-highlightjs": "^1.3.3",
+		"vue-print-nb": "^1.7.5"
+	},
+	"devDependencies": {
+		"@vue/cli-plugin-babel": "^3.8.0",
+		"@vue/cli-service": "^3.8.0",
+		"vue-template-compiler": "^2.6.10"
+	}
+}
